@@ -1,0 +1,35 @@
+---
+title: "clarefmccann-site"
+output: html_notebook
+---
+
+## Setting up markdown {.tabset}
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = TRUE,
+	message = TRUE,
+	warning = TRUE
+)
+```
+
+### loading required packages
+
+```{r Load Required Packages, message=FALSE, warning=FALSE, include=FALSE}
+# load packages
+library(pacman)
+pacman::p_load(distill, postcards, remotes, install = TRUE)
+```
+
+### creating postcards 
+
+```{r postcard}
+
+library(postcards)
+
+create_postcard(template = "trestles")
+
+rmarkdown::render("index.Rmd")
+
+
+```

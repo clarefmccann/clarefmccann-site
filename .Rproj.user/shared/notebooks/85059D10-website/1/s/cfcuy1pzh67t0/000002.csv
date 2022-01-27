@@ -1,0 +1,3 @@
+"0","# load packages"
+"0","library(pacman)"
+"0","pacman::p_load(distill, postcards, remotes, install = TRUE)"

@@ -1,0 +1,29 @@
+{
+    "id": "76B7F4FD",
+    "path": "~/Desktop/Professional/website/website.Rmd",
+    "project_path": "website.Rmd",
+    "type": "r_markdown",
+    "hash": "4061133601",
+    "contents": "",
+    "dirty": false,
+    "created": 1643253357689.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,3",
+        "scrollLine": "9",
+        "last_setup_crc32": "AF3B94D4dd7c38aa"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1643256197,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1643256197623,
+    "read_only": false,
+    "read_only_alternatives": []
+}

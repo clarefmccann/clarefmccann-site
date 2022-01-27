@@ -1,0 +1,28 @@
+"0","rmarkdown::render(""index.Rmd"")
+"
+"2","
+
+processing file: index.Rmd
+"
+"1","  |                                                                                                              "
+"1","  |                                                                                                        |   0%"
+"1","  |                                                                                                              "
+"1","  |........................................................................................................| 100%"
+"1","
+"
+"1","  ordinary text without R code
+"
+"1","
+"
+"1","
+"
+"2","output file: index.knit.md
+
+"
+"1","/Applications/RStudio.app/Contents/MacOS/pandoc/pandoc +RTS -K512m -RTS index.knit.md --to html4 --from markdown+tex_math_single_backslash-autolink_bare_uris --output index.html --lua-filter /Library/Frameworks/R.framework/Versions/4.1/Resources/library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.1/Resources/library/rmarkdown/rmarkdown/lua/latex-div.lua --self-contained --standalone --section-divs --template /Library/Frameworks/R.framework/Versions/4.1/Resources/library/postcards/pandoc_templates/trestles.html --highlight-style pygments --include-in-header /var/folders/2n/yr562b8j1mgcy9pvvfzzykmw0000gn/T//Rtmperoj6U/rmarkdown-str133b31d4e2d73.html"
+"1"," "
+"1","
+"
+"2","
+Output created: index.html
+"

@@ -1,0 +1,33 @@
+---
+title: "Clare F. McCann"
+image: "clare.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/clare-mccann-9a5172192/"
+  - label: Twitter
+    url: "https://twitter.com/clarefmccann"
+  - label: GitHub
+    url: "https://github.com/clarefmccann"
+  - label: Email
+    url: "mailto:cmccann2@uoregon.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Clare McCann graduated from the University of Oregon in June 2020 with honors in Psychology and minors in Special Education and Women's Gender and Sexuality Studies. She currently is the lead Lab Coordinator for the Developmental Social Neuroscience lab working to understand pubertal, social and neural development across adolescence. She is in the processing of interviewing for PhD programs and hopes to spend the next few years refining her interests in adolescent behavioral and neural development. 
+
+## Education
+
+**University of Oregon** | Eugene, OR
+
+B.S. | September 2016 - June 2020
+
+## Experience
+
+**Developmental Social Neuroscience lab** | Lead Lab Coordinator | Septemeber 2020 - Present
+
+**Developing Brains in Context** | Research Assistant | September 2019 - June 2020 
+
+
